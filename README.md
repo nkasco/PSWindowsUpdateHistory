@@ -23,7 +23,7 @@ $Today = Get-Date
 ```
 
 ```
-$Today = Get-Date
+#Full or partial title can be used
 .\'Windows Update History Viewer.ps1' -Title "2023-03"
 ```
 
