@@ -1,5 +1,5 @@
 # PSWindowsUpdateHistory
-A quick way to obtain Windows Update history without external dependencies
+A quick way to obtain Windows Update history without external dependencies. This includes more information beyond Get-Hotfix such as Defender definitions, driver installations, etc.
 
 ## Examples:
 ```
