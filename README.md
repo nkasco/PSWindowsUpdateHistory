@@ -33,3 +33,7 @@ $Today = Get-Date
 $Today = Get-Date
 .\'Windows Update History Viewer.ps1' -StartDate $Today -Title "2023-03"
 ```
+
+```
+.\'Windows Update History Viewer.ps1' -Limit 1
+```
